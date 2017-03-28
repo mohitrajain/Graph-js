@@ -22,4 +22,4 @@ Graph().adata();
 
 ```
 
-<img src="https://raw.githubusercontent.com/mohitrajain/Graph-js/master/graphjs.png"></img>
+<img src="https://raw.githubusercontent.com/mohitrajain/Graph-js/master/graphjs.png">
